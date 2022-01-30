@@ -10,8 +10,10 @@ namespace Basic_prob
     {
         public static void Main(string[] args)
         {
-            Addition addition = new Addition();
-            addition.Add();
+            //Addition addition = new Addition();
+            //addition.Add();
+            Subtraction subtraction = new Subtraction();
+            subtraction.sub();
         }
     }
 }
